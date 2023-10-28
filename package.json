@@ -1,0 +1,18 @@
+{
+  "name": "shareable_dev_env",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nakano16180/shareable_dev_env.git",
+  "author": "nakano16180 <nakano16180@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.4.0",
+    "eslint": "^8.0.1",
+    "eslint-config-standard-with-typescript": "^39.1.1",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0 || ^16.0.0 ",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.33.2",
+    "typescript": "*"
+  }
+}

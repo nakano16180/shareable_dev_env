@@ -1,6 +1,7 @@
 {
   "packages": [
-    "nodejs_20@latest"
+    "nodejs_20@latest",
+    "yarn@latest"
   ],
   "shell": {
     "init_hook": [
